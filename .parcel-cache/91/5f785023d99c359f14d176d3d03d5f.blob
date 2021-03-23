@@ -1,0 +1,9 @@
+window.jQuery=function(selector){
+    const elements = document.querySelectorAll(selector)
+
+    let result ={
+        addClass:function (className){
+            for (let i =0;i<elements.length)
+        }
+    }
+}

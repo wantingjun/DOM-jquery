@@ -1,0 +1,4 @@
+//addClass
+jQuery('.test').addClass('red')
+//find
+let x = jQuery('.test1').find('.child').addClass('green').end().addClass('black')

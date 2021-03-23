@@ -1,0 +1,3 @@
+//addClass
+jQuery('.test').find('.child')
+let x = jQuery('.test1').find('.child')
